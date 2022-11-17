@@ -38,13 +38,14 @@ Employments
 </div>
 
 <div>
-    <p style="float: left;"><img src="images/skku.png" width="80"></p>
+    <p style="float: left;"><img src="images/snu.png" width="80"></p>
     <p>
         &nbsp;<b> Research Assistant </b><br>
         &nbsp; RUBIS Lab, Seoul National University, South Korea<br>
         &nbsp;<em> Summer 2019</em>
    </p>
 </div>
+
 
 Education
 ======
