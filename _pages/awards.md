@@ -8,7 +8,7 @@ author_profile: true
 Awards
 ======
 <div>
-    <p style="float: left;"><img src="images/samsungscholar.png" width="80"></p>
+    <p style="float: left;"><img src="/images/samsungscholar.png" width="60"></p>
     <p>
         &nbsp;<b> Samsung Scholarship</b><br>
         &nbsp; Granted full scholarship (4 years) from Samsung <br>
@@ -19,7 +19,7 @@ Awards
 Certificates
 =====
 <div>
-    <p style="float: left;"><img src="images/opic.png" width="80"></p>
+    <p style="float: left;"><img src="/images/opic.png" width="60"></p>
     <p>
         &nbsp;<b> OPIc </b><br>
         &nbsp; Intermediate High(IH)<br>
