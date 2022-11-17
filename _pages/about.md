@@ -12,6 +12,12 @@ Hi! I am Hyeongjun Jeon, currently working as a software engineer. I received ba
 
 Experiences
 ======
+- Linux kernel file system development
+- RocksDB/LevelDB development 
+- Hadoop echo-system developemnt
+
+Employments
+======
 <div>
     <p style="float: left;"><img src="images/openedges.png" width="80"></p>
     <p>
@@ -36,5 +42,32 @@ Experiences
         &nbsp;<b> Research Assistant </b><br>
         &nbsp; RUBIS Lab, Seoul National University, South Korea<br>
         &nbsp;<em> Summer 2019</em>
+   </p>
+</div>
+
+Education
+======
+<div>
+    <p style="float: left;"><img src="images/skku.png" width="80"></p>
+    <p>
+        &nbsp;<b> M.S. Computer Science and Engineering </b><br>
+        &nbsp; Sungkyunkwan University, South Korea<br>
+        &nbsp;<em> 2021 - 2023 </em>
+   </p>
+</div>
+<div>
+    <p style="float: left;"><img src="images/skku.png" width="80"></p>
+    <p>
+        &nbsp;<b> B.S. Computer Science and Engineering </b><br>
+        &nbsp; Sungkyunkwan University, South Korea<br>
+        &nbsp;<em> 2016 - 2021 </em>
+   </p>
+</div>
+<div>
+    <p style="float: left;"><img src="images/skku.png" width="80"></p>
+    <p>
+        &nbsp;<b> B.S. Mechanical Engineering </b><br>
+        &nbsp; Sungkyunkwan University, South Korea<br>
+        &nbsp;<em> 2016 - 2021 </em>
    </p>
 </div>
