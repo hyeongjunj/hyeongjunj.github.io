@@ -56,6 +56,7 @@ Education
         &nbsp;<em> 2021 - 2023 </em>
    </p>
 </div>
+
 <div>
     <p style="float: left;"><img src="images/skku.png" width="80"></p>
     <p>
