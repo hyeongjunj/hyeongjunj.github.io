@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards & Certificates"
-permalink: /award/
+permalink: /awards/
 author_profile: true
 ---
 
