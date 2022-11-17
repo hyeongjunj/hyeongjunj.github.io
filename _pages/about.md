@@ -39,4 +39,22 @@ Employments
    </p>
 </div>
 
+Education
+======
 
+<div>
+    <p style="float: left;"><img src="images/skku.png" width="80"></p>
+    <p>
+        &nbsp;<b> Research Assistant </b><br>
+        &nbsp; DICL Lab, Sungkyunkwan University, South Korea<br>
+        &nbsp;<em> 2021 - 2023 </em>
+   </p>
+</div>
+<div>
+    <p style="float: left;"><img src="images/skku.png" width="80"></p>
+    <p>
+        &nbsp;<b> Research Assistant </b><br>
+        &nbsp; DICL Lab, Sungkyunkwan University, South Korea<br>
+        &nbsp;<em> 2021 - 2023 </em>
+   </p>
+</div>
