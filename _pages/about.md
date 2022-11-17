@@ -10,12 +10,6 @@ redirect_from:
 
 Hi! I am Hyeongjun Jeon, currently working as a software engineer. I received bachelor's degrees in Computer Science and Engineering, and Mechanical Engineering in 2021 in Sungkyunkwan University. After that, I received my M.S. in Computer Science and Engineering under the supervision of [Dr.Beomseok Nam](http://dicl.skku.edu/~bnam/). in 2023. My research topics were distributed systems, file systems, and developing middleware(Key-Value Store) platform. I am now highly interested in computer systems, computer architecture, linux kernel, middleware, high performance computing and so many. For more details, please refer to my [CV](http://dicl.skku.edu/~hjeon/hjeon-cv.pdf).     
 
-Experiences
-======
-- Linux kernel file system development
-- RocksDB/LevelDB development 
-- Hadoop echo-system developemnt
-
 Employments
 ======
 <div>
@@ -46,22 +40,3 @@ Employments
 </div>
 
 
-Education
-======
-<div>
-    <p style="float: left;"><img src="images/skku.png" width="80"></p>
-    <p>
-        &nbsp;<b> M.S. Computer Science and Engineering </b><br>
-        &nbsp; Sungkyunkwan University, South Korea<br>
-        &nbsp;<em> 2021 - 2023 </em>
-   </p>
-</div>
-
-<div>
-    <p style="float: left;"><img src="images/skku.png" width="80"></p>
-    <p>
-        &nbsp;<b> B.S. Computer Science and Engineering & Mechanical Engineering </b><br>
-        &nbsp; Sungkyunkwan University, South Korea<br>
-        &nbsp;<em> 2016 - 2021 </em>
-   </p>
-</div>
